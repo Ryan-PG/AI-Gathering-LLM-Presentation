@@ -1,0 +1,4 @@
+g4f[all] 
+openai
+streamlit
+langdetect
