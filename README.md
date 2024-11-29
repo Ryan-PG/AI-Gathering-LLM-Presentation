@@ -29,7 +29,7 @@ This repository contains all the materials for My presentation about **Large Lan
 
 1. Clone this repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Ryan-PG/AI-Gathering-LLM-Presentation.git
    ```
 2. Explore the directories:
    - **Codes/**: Run the examples provided in this folder.
