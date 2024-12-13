@@ -1,6 +1,7 @@
+
 # LLMs Presentation - Keyhan Qom
 
-This repository contains all the materials for My presentation about **Large Language Models (LLMs)**  conducted on **November 27, 2024**, at **Keyhan Qom**. It includes code, slides, and resources used in the presentation.
+This repository contains all the materials for My presentation about **Large Language Models (LLMs)** conducted on **November 27, 2024**, at **Keyhan Qom**. It includes code, slides, and resources used in the presentation.
 
 ## Preview
 
@@ -24,6 +25,13 @@ This repository contains all the materials for My presentation about **Large Lan
 ├── LLMs.pptx          # Presentation slides in PPTX format
 └── Preview.gif        # Preview of the presentation or demo
 ```
+
+## YouTube Videos
+
+You can watch parts of the presentation on YouTube:
+
+1. [Part 1: Introduction to LLMs](https://www.youtube.com/watch?v=lW34ies9NO8)
+2. [Part 2: Use Cases and Applications and Python coding](https://www.youtube.com/watch?v=_XnMEmuWAIA)
 
 ## Getting Started
 
